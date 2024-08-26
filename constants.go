@@ -8,7 +8,7 @@ const (
 	CAPLEN      = 4
 	mLen        = 12
 	STATE_SIZE  = 12
-	SPONGE_RATE = 12
+	SPONGE_RATE = 8
 )
 
 var (
